@@ -1,0 +1,15 @@
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/bin/Debug/net6.0/seminar1
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/bin/Debug/net6.0/seminar1.deps.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/bin/Debug/net6.0/seminar1.runtimeconfig.json
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/bin/Debug/net6.0/seminar1.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/bin/Debug/net6.0/seminar1.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.csproj.AssemblyReference.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.AssemblyInfoInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.AssemblyInfo.cs
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.csproj.CoreCompileInputs.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/refint/seminar1.dll
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.pdb
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/seminar1.genruntimeconfig.cache
+/Users/a04/Documents/РАЗВИТИЕ/ОБУЧЕНИЕ/5. Знакомство с языками програмирования/Урок 1. Знакомство с языком программирования С#. Семинар 1/seminar1/obj/Debug/net6.0/ref/seminar1.dll
